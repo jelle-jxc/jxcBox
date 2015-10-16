@@ -1,4 +1,4 @@
-# lighterbox
-the tiniest lightbox alternative
+# jxcBox
+the tiniest gallery plugin
 
-add the lb attribute to your images to give them lighterbox functionality
+add the jxcBox attribute to your images to give them jxcBox functionality
